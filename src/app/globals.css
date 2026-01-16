@@ -1,20 +1,17 @@
 @import "tailwindcss";
 
 @theme {
-  /* Define your brand colors here */
   --color-brand-primary: #3b82f6;
   --color-brand-secondary: #10b981;
   --color-brand-background: #0f172a;
   --color-brand-surface: #1e293b;
-  
-  /* You can also define custom fonts or spacing if needed */
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 :root {
   background-color: var(--color-brand-background);
   color: white;
-}
-
-body {
-  @apply antialiased;
 }
