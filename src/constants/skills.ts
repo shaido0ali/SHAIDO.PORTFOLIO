@@ -11,4 +11,5 @@ export const SKILLS: Skill[] = [
   { name: "Framer Motion", category: "Frontend" },
   { name: "Git", category: "Tools" },
   { name: "Adobe PS", category: "Design" },
+  { name: "supabase", category: "Backend" }
 ];
