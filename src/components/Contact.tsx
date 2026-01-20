@@ -56,8 +56,7 @@ const Contact = () => {
               <div>
                 <p className="text-sm text-slate-500">Socials</p>
                 <div className="flex gap-4">
-                  <a href="#" className="font-medium text-white hover:text-brand-secondary transition-colors text-lg">LinkedIn</a>
-                  <a href="#" className="font-medium text-white hover:text-brand-secondary transition-colors text-lg">GitHub</a>
+                  <a href="https://www.linkedin.com/in/ali-shaido" className="font-medium text-white hover:text-brand-secondary transition-colors text-lg">LinkedIn</a>
                 </div>
               </div>
             </div>
