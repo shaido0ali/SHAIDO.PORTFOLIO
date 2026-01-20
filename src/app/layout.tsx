@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-//import MouseGlow from "../components/MouseGlow"; // We'll move the logic to a separate client component for best practice
+import MouseGlow from "../components/MouseGlow"; // We'll move the logic to a separate client component for best practice
 
 const inter = Inter({ subsets: ["latin"] });
 
