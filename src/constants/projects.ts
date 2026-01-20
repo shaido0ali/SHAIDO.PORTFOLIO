@@ -23,7 +23,7 @@ export const PROJECTS: Project[] = [
     title: "Admin Dashboard",
     description: "Developed a high-performance admin dashboard using Next.js 15, TypeScript, and Tailwind CSS for real-time inventory and order management.",
     tags: ["Next.js","TypeScript","Tailwind CSS","Supabase","Lucide React"],
-    link: "https://shaido-shop.vercel.app",
+    link: "https://shaido-admin.vercel.app",
     github: "",
     image: "/images/shaido-e.png",
   }
