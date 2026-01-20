@@ -28,8 +28,8 @@ const Hero = () => {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="max-w-4xl text-5xl font-bold tracking-tight text-white md:text-7xl"
       >
-        creating <span className="text-brand-primary">seamless</span> digital experiences that solve real-world business problems.
-        My approach combines the speed of Next.js with the reliability of TypeScript to build applications that are as stable as they are fast.
+        Building <span className="text-brand-primary">Scalable</span> Systems at the Intersection of Design and Data
+        
       </motion.h1>
 
       <motion.p 
