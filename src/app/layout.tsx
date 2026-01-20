@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Front-End Developer | Portfolio",
+  title: "Full-Stack Developer | Portfolio",
   description: "Modern web experiences built with Next.js, TypeScript, and Tailwind CSS.",
 };
 
@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <body className={`${inter.className} bg-brand-background text-slate-200 antialiased selection:bg-brand-primary/30`}>
         {/* Interactive background effect */}
-        {/*<MouseGlow />*/}
+        <MouseGlow />
         
         {/* Global Navigation */}
         <Navbar />
