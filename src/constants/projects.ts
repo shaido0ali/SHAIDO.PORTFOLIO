@@ -25,6 +25,6 @@ export const PROJECTS: Project[] = [
     tags: ["Next.js","TypeScript","Tailwind CSS","Supabase","Lucide React"],
     link: "https://shaido-admin.vercel.app",
     github: "",
-    image: "/images/shaido-e.png",
+    image: "/images/admin.png",
   }
 ];
