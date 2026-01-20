@@ -28,7 +28,8 @@ const Hero = () => {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="max-w-4xl text-5xl font-bold tracking-tight text-white md:text-7xl"
       >
-        I build <span className="text-brand-primary">performant</span> interfaces for the modern web.
+        creating <span className="text-brand-primary">seamless</span> digital experiences that solve real-world business problems.
+        My approach combines the speed of Next.js with the reliability of TypeScript to build applications that are as stable as they are fast.
       </motion.h1>
 
       <motion.p 
@@ -37,7 +38,7 @@ const Hero = () => {
         transition={{ duration: 0.5, delay: 0.4 }}
         className="mt-6 max-w-2xl text-lg text-slate-400 md:text-xl"
       >
-        Hi, I m a Front-End Developer specializing in <span className="text-white font-medium">Next.js</span> and <span className="text-white font-medium">TypeScript</span>.
+        Hi, I m a Full-Stack Developer specializing in <span className="text-white font-medium">Next.js</span> and <span className="text-white font-medium">TypeScript</span>.
       </motion.p>
 
       <motion.div 
