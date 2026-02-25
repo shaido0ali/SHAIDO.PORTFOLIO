@@ -26,5 +26,14 @@ export const PROJECTS: Project[] = [
     link: "https://shaido-admin.vercel.app",
     github: "",
     image: "/images/admin.png",
+  },
+  {
+    id: 4,
+    title: "Saas project 'Testimonial Wall'",
+    description: "The primary hurdle was creating a seamlessly embedded widget that could live on any website (Shopify, Webflow, React) without affecting the host site's SEO or performance. I solved this by developing a custom postMessage API bridge that dynamically syncs the height of the cross-domain iframe, ensuring zero layout shift and a 'native' feel.",
+    tags: ["Next.js","TypeScript","Tailwind CSS","Supabase",],
+    link: "https://testimonial-wall-ten.vercel.app",
+    github: "",
+    image: "/images/SaaS1.png",
   }
 ];
